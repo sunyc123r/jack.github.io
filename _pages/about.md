@@ -15,9 +15,9 @@ I am a third-year Ph.D. student in the College of Computing and Data Science at 
 Education
 ======
 
-- **2022–Present**: Ph.D. in Computer Science, Nanyang Technological University
-- **2020–2021**: M.Sc. in Business Analytics (Distinction), Imperial College London
-- **2016–2020**: B.Sc. in Applied Mathematics (First Class), The University of Nottingham
+- **2022 – Present**: Ph.D. in Computer Science, Nanyang Technological University
+- **2020 – 2021**: M.Sc. in Business Analytics (Distinction), Imperial College London
+- **2016 – 2020**: B.Sc. in Applied Mathematics (First Class), The University of Nottingham
 
 
 News

@@ -27,7 +27,7 @@ News
 - **April 2023**: Successfully passed Qualification Exam.
 - **January 2022**: Started my Ph.D journey at Nanyang Technological University, Singapore!
 - **September 2021**: Graduated from Imperial College London.
-- **July 2021**: Received a return offer for a full-time Data Scientist position.
+- **August 2021**: Received a return offer for a full-time Data Scientist position.
 - **March 2021**: Started a Data Scientist intern at Kuaishou Technology.
 - **July 2020**: Graduated from the University of Nottingham.
 

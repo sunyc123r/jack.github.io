@@ -3,8 +3,8 @@ layout: archive
 title: "Publication"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /publications/
+#redirect_from:
+  #- /publications/
 ---
 
 {% include base_path %}

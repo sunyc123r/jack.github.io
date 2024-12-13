@@ -23,13 +23,13 @@ Education
 News
 ======
 
-- **July 2024**: Received the KDD 2025 Student Travel Award.
-- **April 2023**: Successfully passed Qualification Exam.
-- **January 2022**: Started my Ph.D journey at Nanyang Technological University, Singapore!
-- **September 2021**: Graduated from Imperial College London.
-- **August 2021**: Received a return offer for a full-time Data Scientist position.
-- **March 2021**: Started a Data Scientist intern at Kuaishou Technology.
-- **July 2020**: Graduated from the University of Nottingham.
+- **July 2024**: I received the KDD 2025 Student Travel Award.
+- **April 2023**: I successfully passed Qualification Exam.
+- **January 2022**: I started my Ph.D journey at Nanyang Technological University, Singapore!
+- **September 2021**: I graduated from Imperial College London.
+- **August 2021**: I received a return offer for a full-time Data Scientist position.
+- **March 2021**: I started a Data Scientist internship at Kuaishou Technology.
+- **July 2020**: I graduated from the University of Nottingham.
 
 
 

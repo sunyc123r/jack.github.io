@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a third-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University, under the supervision of Professor Zhang Jie and Professor Sun Zhu. I earned my B.Sc. in Applied Mathematics from the University of Nottingham in 2020 and my M.Sc. in Business Analytics from Imperial College London in 2021. My research specializes in robust recommender systems, applying data mining and machine learning techniques to develop effective recommendation algorithms across various domains, such as e-commerce and social media platforms. My Ph.D.research particularly focuses on developing efficient and robust social recommender systems.
+I am a third-year Ph.D. student in the College of Computing and Data Science at Nanyang Technological University, under the supervision of Professor Zhang Jie and Professor Sun Zhu. I earned my B.Sc. in Applied Mathematics from the University of Nottingham in 2020 and my M.Sc. in Business Analytics from Imperial College London in 2021. My research specializes in robust recommender systems, applying data mining and machine learning techniques to develop effective recommendation algorithms across various domains, such as e-commerce and social media platforms. My Ph.D. research particularly focuses on developing efficient and robust social recommender systems.
 
 
 

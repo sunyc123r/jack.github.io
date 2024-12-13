@@ -38,7 +38,8 @@ Awards
 - Research Scholarship, Nanyang Technological University
 - School Achievement Prize 2019, the University of Nottingham
 - Nottingham Advantage Award 2019, the University of Nottingham
-- Head's Scholarships 2017 & 2018, the University of Nottingham
+- Head's Scholarship 2017 & 2018, the University of Nottingham
+- Outstanding Student Scholarship 2016, the University of Nottingham
 
 
 

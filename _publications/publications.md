@@ -25,7 +25,7 @@ Recommender Systems Conference (RecSys), 2023
 Recommender Systems Conference (RecSys), 2023
 
 - [4] Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Hongzhi Liu, Zhonghai Wu, Yining
-Ma, JieZhang, **Youchen Sun**, Large Language Model with Graph Convolution for Recommendation,
+Ma, Jie Zhang, **Youchen Sun**, Large Language Model with Graph Convolution for Recommendation,
 arXiv preprint arXiv:2402.08859, 2024.
 
 

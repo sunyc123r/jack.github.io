@@ -29,7 +29,7 @@ News
 - **Sep 2021**: I graduated from the MSc in Business Analytics at Imperial College London.
 - **Aug 2021**: I received a return offer for Data Scientist position at Kuaishou Technology.
 - **Mar 2021**: I started a Data Scientist internship at Kuaishou Technology.
-- **Jul 2020**: I graduated from the University of Nottingham, earning three school scholarships.
+- **Jul 2020**: I graduated from the University of Nottingham in BSc Applied Mathematics.
 
 
 Awards

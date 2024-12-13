@@ -7,7 +7,7 @@
 main:
 
   - title: "Highlights"
-    url: /
+    url: /about/
    
   - title: "Publications"
     url: /publications/

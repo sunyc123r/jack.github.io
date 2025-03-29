@@ -23,6 +23,7 @@ Education
 News
 ======
 
+- **Jan 2025**: One paper is accepted by TheWebConf 2025 as an oral presentation.
 - **Jul 2024**: I received the KDD 2024 Student Travel Award.
 - **Apr 2023**: I successfully passed the Qualification Exam.
 - **Jan 2022**: I started my Ph.D journey at Nanyang Technological University, Singapore!

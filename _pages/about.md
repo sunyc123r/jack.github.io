@@ -23,9 +23,10 @@ Education
 News
 ======
 
-- **Jan 2025**: One paper is accepted by TheWebConf 2025 as an oral presentation.
+- **Jan 2025**: One paper is accepted by TheWebConf 2025 as an oral presentation!
 - **Jul 2024**: I received the KDD 2024 Student Travel Award.
-- **Apr 2023**: I successfully passed the Qualification Exam.
+- **Apr 2024**: I received the KDD 2024 Student Travel Award.
+- **Apr 2023**:  One paper is accepted by KDD 2024!
 - **Jan 2022**: I started my Ph.D journey at Nanyang Technological University, Singapore!
 - **Sep 2021**: I graduated from the MSc in Business Analytics at Imperial College London.
 - **Aug 2021**: I received a return offer for Data Scientist position at Kuaishou Technology.
